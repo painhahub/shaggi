@@ -6,6 +6,10 @@ Desktop.ini
 # Локальные QR на тестовый адрес в домашней сети — в репозиторий не нужны
 qr-visitka.png
 qr-visitka-lan.png
+qr-shaggi.png
+
+# Печатные карточки с QR — артефакты для печати, не часть сайта
+qr-shaggi-card*.png
 
 # Старое фото салона, в вёрстке не используется (шапка на assets/cover.jpg)
 assets/hero.jpg
