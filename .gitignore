@@ -7,5 +7,8 @@ Desktop.ini
 qr-visitka.png
 qr-visitka-lan.png
 
+# Старое фото салона, в вёрстке не используется (шапка на assets/cover.jpg)
+assets/hero.jpg
+
 # Служебные файлы редактора
 .workai/
