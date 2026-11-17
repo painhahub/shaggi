@@ -63,7 +63,8 @@ a {
 .hero__cover {
   position: relative;
   aspect-ratio: 1200 / 480;
-  background: var(--paper) url("assets/cover.jpg") center / cover no-repeat;
+  /* ?v= — сбрасывает закэшированную браузером старую обложку */
+  background: var(--paper) url("assets/cover.jpg?v=3") center / cover no-repeat;
 }
 
 .hero__cover::after {
