@@ -1,0 +1,11 @@
+# Служебные файлы ОС
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Локальные QR на тестовый адрес в домашней сети — в репозиторий не нужны
+qr-visitka.png
+qr-visitka-lan.png
+
+# Служебные файлы редактора
+.workai/
